@@ -1,0 +1,25 @@
+{
+  "name": "camilesalazartask3",
+  "version": "1.0.0",
+  "description": "HRAggregate Functions (HR Schema)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LCamile/CamileSalazarTask3.git"
+  },
+  "keywords": [
+    "HR"
+  ],
+  "author": "CamileSalazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LCamile/CamileSalazarTask3/issues"
+  },
+  "homepage": "https://github.com/LCamile/CamileSalazarTask3#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
